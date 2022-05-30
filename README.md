@@ -3,7 +3,7 @@ code for parameter fitting / AIC calculation of gSIS and SIS models
 
 The code fits the differential equation
 
-\* di/dt = beta*(1-i)*i - (2*m'+1)/m*i*m - b*i \*
+di/dt = beta\*(1-i)\*i - (2\*m\'+1)/m*i*m - b*i \*
 
 to incidence data on gonorrhea in the US, where beta & b are constant and m is the mean residual waiting-time (& its derivative m').
 
