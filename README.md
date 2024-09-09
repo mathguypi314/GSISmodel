@@ -14,5 +14,5 @@ The quality of fits is compared by calculating AIC for each model.
 gSIS version from medRxiv preprint
 [gSIS project.zip](https://github.com/mathguypi314/GSISmodel/files/8800303/gSIS.project.zip)
 
-gSIS version from Infectious Disease Modeling Journal
+gSIS version from publication in Infectious Disease Modeling Journal
 [gSISexactsolnsOct102023.m](https://github.com/mathguypi314/GSISmodel/blob/main/gSISexactsolnsOct102023.m)
