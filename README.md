@@ -13,4 +13,4 @@ The quality of fits is compared by calculating AIC for each model.
 
 [gSIS project.zip](https://github.com/mathguypi314/GSISmodel/files/8800303/gSIS.project.zip)
 
-[gSISexactsolnsOct102023.m](https://github.com/mathguypi314/GSISmodel/gSISexactsolnsOct102023.m)
+[gSISexactsolnsOct102023.m](https://github.com/mathguypi314/GSISmodel/blob/main/gSISexactsolnsOct102023.m)
