@@ -12,4 +12,5 @@ The code also fits the special case when m = constant = 1/gamma (i.e. the classi
 The quality of fits is compared by calculating AIC for each model. 
 
 [gSIS project.zip](https://github.com/mathguypi314/GSISmodel/files/8800303/gSIS.project.zip)
-[gSIS project.zip](https://github.com/mathguypi314/GSISmodel/files/8800303/gSIS.project.zip)
+
+[gSISexactsolnsOct102023](https://github.com/mathguypi314/GSISmodel/files/8800303/gSISexactsolnsOct102023.m)
