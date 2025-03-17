@@ -1,3 +1,16 @@
+# Wonder drug project (Malaria/ivermectin model)
+The following details the calculations/scripts used to obtain results on the impact of ivermectin on reducing malaria incidence in 41 sub-Saharan African countries. 
+
+MAIN script IVMMalScriptRANDsamplingJan30_2025
+Estimate transmission rates: findAlphas, calcAB2025
+Estimate Skill Scores: Valdiate2019, calcSkillScore2025
+Estimate the effect of ivermectin on mosquitoes/parasites: calibrateIvermectinEffectsSAMP2025
+Compute baseline malaria predictions: baselineSAMP2025
+Compute malaria prections under ivermectin intervention scenarios: IVMinterventionSAMP2025
+Setup for the calculation of Disability adjusted life-years: setupForDALYsSAMP2025
+
+Zip-file of Matlab code [MalariaIvermectinProject.zip](https://github.com/mathguypi314/GSISmodel/blob/main/MalariaIvermectinProject.zip)
+
 # GSISmodel
 code for parameter fitting / AIC calculation of gSIS and SIS models
 
